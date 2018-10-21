@@ -1,5 +1,5 @@
 _repo: The-Circus-Boys-on-the-Mississippi-Or-Afloat-with-the-Big-Show-on-the-Big-River_2477
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -24,6 +24,7 @@ subjects:
 - !lcsh 'Circus -- Juvenile fiction'
 - !lcc 'PZ'
 - !lcc 'PS'
+- GITenberg
 title: The Circus Boys on the Mississippi; Or, Afloat with the Big Show on the Big
   River
 url: http://www.gutenberg.org/ebooks/2477
